@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Jr Software Engineer",
+    "organisation": "Limenzy",
+    "startDate": "May, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Huntr", "Worked On Eduwizz","Worked On The Gate Hotel","Worked On Lend It"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Software Trainee",
+    "organisation": "Seidor",
+    "startDate": "Aug, 2022",
+    "endDate": "Feb, 2023",
+    "experiences": ["Worked on php","Worked on wordpress"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Data Analyst Intern",
+    "organisation": "Expertz Lab",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
